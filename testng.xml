@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.orangehrm.testcases.TestCases">
+		  <methods>
+			  <include name="LoginWithInvalidUsername_TC005"></include>
+			  <include name="LoginWithInvalidUsername_TC004"></include>
+			  <exclude name="LoginWithInvalidUsername_TC003"></exclude>
+			  <include name="LoginWithInvalidUsername_TC002"></include>
+		  </methods>
+	  </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

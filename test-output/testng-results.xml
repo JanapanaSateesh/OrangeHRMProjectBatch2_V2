@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-03T20:43:51 IST" name="Suite" finished-at="2024-05-03T20:45:05 IST" duration-ms="74151">
+    <groups>
+      <group name="acceptance">
+        <method signature="TestCases.LoginWithValidCredentials_TC004()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a]" name="LoginWithValidCredentials_TC004" class="com.orangehrm.testcases.TestCases"/>
+      </group> <!-- acceptance -->
+      <group name="regression">
+        <method signature="TestCases.LoginWithValidCredentials_TC001()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a]" name="LoginWithValidCredentials_TC001" class="com.orangehrm.testcases.TestCases"/>
+        <method signature="TestCases.LoginWithValidCredentials_TC004()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a]" name="LoginWithValidCredentials_TC004" class="com.orangehrm.testcases.TestCases"/>
+        <method signature="TestCases.LoginWithInvalidUsername_TC002()[pri:2, instance:com.orangehrm.testcases.TestCases@285d851a]" name="LoginWithInvalidUsername_TC002" class="com.orangehrm.testcases.TestCases"/>
+        <method signature="TestCases.LoginWithInvalidUsername_TC005()[pri:2, instance:com.orangehrm.testcases.TestCases@285d851a]" name="LoginWithInvalidUsername_TC005" class="com.orangehrm.testcases.TestCases"/>
+        <method signature="TestCases.TitleValidation_TC003(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.orangehrm.testcases.TestCases@285d851a]" name="TitleValidation_TC003" class="com.orangehrm.testcases.TestCases"/>
+        <method signature="TestCases.TitleValidation_TC006(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.orangehrm.testcases.TestCases@285d851a]" name="TitleValidation_TC006" class="com.orangehrm.testcases.TestCases"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TestCases.LoginWithValidCredentials_TC001()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a]" name="LoginWithValidCredentials_TC001" class="com.orangehrm.testcases.TestCases"/>
+        <method signature="TestCases.LoginWithValidCredentials_TC004()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a]" name="LoginWithValidCredentials_TC004" class="com.orangehrm.testcases.TestCases"/>
+        <method signature="TestCases.TitleValidation_TC006(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.orangehrm.testcases.TestCases@285d851a]" name="TitleValidation_TC006" class="com.orangehrm.testcases.TestCases"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="TestCases.LoginWithInvalidUsername_TC005()[pri:2, instance:com.orangehrm.testcases.TestCases@285d851a]" name="LoginWithInvalidUsername_TC005" class="com.orangehrm.testcases.TestCases"/>
+        <method signature="TestCases.TitleValidation_TC003(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.orangehrm.testcases.TestCases@285d851a]" name="TitleValidation_TC003" class="com.orangehrm.testcases.TestCases"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-05-03T20:43:51 IST" name="Test" finished-at="2024-05-03T20:45:05 IST" duration-ms="74151">
+      <class name="com.orangehrm.testcases.TestCases">
+        <test-method is-config="true" signature="StartReport()[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:43:51 IST" name="StartReport" finished-at="2024-05-03T20:43:51 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartReport -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:43:51 IST" name="setUp" finished-at="2024-05-03T20:44:03 IST" duration-ms="11978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithValidCredentials_TC001()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:03 IST" name="LoginWithValidCredentials_TC001" finished-at="2024-05-03T20:44:04 IST" duration-ms="1475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials_TC001 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:04 IST" name="tearDown" finished-at="2024-05-03T20:44:05 IST" duration-ms="186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithValidCredentials_TC001 status=SUCCESS method=TestCases.LoginWithValidCredentials_TC001()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:05 IST" name="setUp" finished-at="2024-05-03T20:44:15 IST" duration-ms="10668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithValidCredentials_TC004()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:15 IST" name="LoginWithValidCredentials_TC004" finished-at="2024-05-03T20:44:15 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials_TC004 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:15 IST" name="tearDown" finished-at="2024-05-03T20:44:16 IST" duration-ms="238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithValidCredentials_TC004 status=SUCCESS method=TestCases.LoginWithValidCredentials_TC004()[pri:1, instance:com.orangehrm.testcases.TestCases@285d851a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:16 IST" name="setUp" finished-at="2024-05-03T20:44:26 IST" duration-ms="10127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithInvalidUsername_TC002()[pri:2, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:26 IST" name="LoginWithInvalidUsername_TC002" finished-at="2024-05-03T20:44:27 IST" duration-ms="1206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidUsername_TC002 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:27 IST" name="tearDown" finished-at="2024-05-03T20:44:27 IST" duration-ms="181" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithInvalidUsername_TC002 status=SUCCESS method=TestCases.LoginWithInvalidUsername_TC002()[pri:2, instance:com.orangehrm.testcases.TestCases@285d851a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:27 IST" name="setUp" finished-at="2024-05-03T20:44:38 IST" duration-ms="10593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithInvalidUsername_TC005()[pri:2, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:38 IST" name="LoginWithInvalidUsername_TC005" finished-at="2024-05-03T20:44:39 IST" duration-ms="1268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidUsername_TC005 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:39 IST" name="tearDown" finished-at="2024-05-03T20:44:39 IST" duration-ms="256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithInvalidUsername_TC005 status=SUCCESS method=TestCases.LoginWithInvalidUsername_TC005()[pri:2, instance:com.orangehrm.testcases.TestCases@285d851a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:40 IST" name="setUp" finished-at="2024-05-03T20:44:51 IST" duration-ms="10735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TitleValidation_TC003(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:51 IST" name="TitleValidation_TC003" data-provider="testDataTC003" finished-at="2024-05-03T20:44:52 IST" duration-ms="1278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OrangeHRM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleValidation_TC003 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:52 IST" name="tearDown" finished-at="2024-05-03T20:44:52 IST" duration-ms="212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TitleValidation_TC003 status=SUCCESS method=TestCases.TitleValidation_TC003(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.orangehrm.testcases.TestCases@285d851a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:44:52 IST" name="setUp" finished-at="2024-05-03T20:45:04 IST" duration-ms="11303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TitleValidation_TC006(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:45:04 IST" name="TitleValidation_TC006" data-provider="testDataTC003" finished-at="2024-05-03T20:45:05 IST" duration-ms="1375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OrangeHRM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleValidation_TC006 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:45:05 IST" name="tearDown" finished-at="2024-05-03T20:45:05 IST" duration-ms="160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TitleValidation_TC006 status=SUCCESS method=TestCases.TitleValidation_TC006(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.orangehrm.testcases.TestCases@285d851a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="EndReport()[pri:0, instance:com.orangehrm.testcases.TestCases@285d851a]" started-at="2024-05-03T20:45:05 IST" name="EndReport" finished-at="2024-05-03T20:45:05 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndReport -->
+      </class> <!-- com.orangehrm.testcases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

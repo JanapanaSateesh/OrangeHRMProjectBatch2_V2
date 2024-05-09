@@ -1,0 +1,605 @@
+2024-04-29 20:52:22,514 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value
+2024-04-29 20:52:22,594 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value
+2024-04-29 20:52:22,727 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked is done
+2024-04-29 20:52:23,864 [main] [INFO ] rootLogger:30:CommandsCls.java - Get the title
+2024-04-29 20:52:23,867 [main] [INFO ] rootLogger:36:CommandsCls.java - Compared two strings
+2024-04-29 20:55:08,556 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-04-29 20:55:08,606 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-04-29 20:55:08,656 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-04-29 20:55:09,908 [main] [INFO ] rootLogger:30:CommandsCls.java - Get the title :OrangeHRM
+2024-04-29 20:55:09,916 [main] [INFO ] rootLogger:36:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-01 20:04:55,142 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 20:04:55,297 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-01 20:04:55,394 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-01 20:04:56,889 [main] [INFO ] rootLogger:30:CommandsCls.java - Get the title :OrangeHRM
+2024-05-01 20:04:56,893 [main] [INFO ] rootLogger:36:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-01 20:37:03,107 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 20:37:13,822 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 20:37:25,741 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 20:40:13,197 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 20:47:00,665 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:02:51,760 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:03:21,753 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:40:36,264 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:49:27,860 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:52:21,556 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:52:21,612 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-01 21:52:22,698 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-01 21:52:48,457 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:52:48,505 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-01 21:52:48,541 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-01 21:52:58,619 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:52:58,668 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-01 21:52:58,711 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-01 21:53:09,714 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-01 21:53:09,760 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-01 21:53:09,795 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-01 21:53:10,872 [main] [INFO ] rootLogger:30:CommandsCls.java - Get the title :OrangeHRM
+2024-05-01 21:53:10,891 [main] [INFO ] rootLogger:36:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-02 20:37:59,699 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:39:12,467 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:39:12,535 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:39:13,663 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:39:13,673 [main] [INFO ] rootLogger:30:CommandsCls.java - Get the title :OrangeHRM
+2024-05-02 20:39:13,677 [main] [INFO ] rootLogger:36:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-02 20:40:38,844 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:40:38,903 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:40:40,078 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:41:02,974 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:41:03,027 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:41:04,221 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:41:17,053 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:41:17,112 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:41:17,154 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:41:18,214 [main] [INFO ] rootLogger:30:CommandsCls.java - Get the title :OrangeHRM
+2024-05-02 20:41:18,217 [main] [INFO ] rootLogger:36:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-02 20:50:27,995 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:50:28,070 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:50:29,196 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:50:52,036 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:50:52,095 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:50:53,188 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:51:05,235 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:51:05,301 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:51:05,350 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:51:06,452 [main] [INFO ] rootLogger:30:CommandsCls.java - Get the title :OrangeHRM
+2024-05-02 20:51:06,455 [main] [INFO ] rootLogger:36:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-02 20:52:07,154 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:52:07,216 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:52:08,341 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:52:29,568 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:52:29,636 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:52:29,687 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:52:41,908 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:52:41,995 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:52:42,053 [main] [INFO ] rootLogger:20:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 20:52:43,643 [main] [INFO ] rootLogger:30:CommandsCls.java - Get the title :OrangeHRM
+2024-05-02 20:52:43,649 [main] [INFO ] rootLogger:36:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-02 20:54:41,631 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:54:41,710 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:54:53,310 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:54:53,462 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+2024-05-02 20:55:05,029 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: Admin
+2024-05-02 20:55:05,084 [main] [INFO ] rootLogger:25:CommandsCls.java - Entered the value: admin123
+
+
+
+
+2024-05-02 21:03:43,918 [main] [INFO ] rootLogger:34:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:03:43,995 [main] [INFO ] rootLogger:34:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:03:44,023 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1f7e539f5548788014942e7a24484578, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56369}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56369/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f7e539f5548788014942e7a24484578
+2024-05-02 21:03:59,809 [main] [INFO ] rootLogger:34:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:03:59,862 [main] [INFO ] rootLogger:34:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:03:59,882 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cf70feb5013f30e440e575c1ec559492, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56394}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56394/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cf70feb5013f30e440e575c1ec559492
+2024-05-02 21:04:15,162 [main] [INFO ] rootLogger:34:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:04:15,471 [main] [INFO ] rootLogger:34:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:04:15,516 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07735274d856fd1a85259d76a77c1d7a, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56425}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56425/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07735274d856fd1a85259d76a77c1d7a
+2024-05-02 21:04:15,536 [main] [INFO ] rootLogger:47:CommandsCls.java - Get the title :OrangeHRM
+2024-05-02 21:04:15,540 [main] [INFO ] rootLogger:59:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-02 21:09:17,433 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:09:17,510 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:09:17,536 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [64881a88eab426f74384f1096ed8ba04, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56474}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56474/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 64881a88eab426f74384f1096ed8ba04
+2024-05-02 21:09:29,950 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:09:30,002 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:09:30,015 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9a4e52fa9d624c2b4c433187cf9b9f72, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56498}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56498/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9a4e52fa9d624c2b4c433187cf9b9f72
+2024-05-02 21:09:43,535 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:09:43,588 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:09:43,600 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6e38d5abab156c2e91534723dfc6b3de, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56524}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56524/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e38d5abab156c2e91534723dfc6b3de
+2024-05-02 21:18:31,062 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:18:31,131 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:18:31,155 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [85f9c5f1d96f91624d7822de76afb036, findElement {using=xpath, value=//button[@type='submit123']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56576}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56576/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 85f9c5f1d96f91624d7822de76afb036
+2024-05-02 21:18:31,176 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is failed: 
+2024-05-02 21:18:42,323 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:18:42,402 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:18:42,425 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ec69c59578b920c4c4a5102c11830e76, findElement {using=xpath, value=//button[@type='submit123']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56598}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56598/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ec69c59578b920c4c4a5102c11830e76
+2024-05-02 21:18:42,428 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is failed: 
+2024-05-02 21:18:55,834 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:18:55,900 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:18:55,913 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9fbd39b2d39e59a7d9bc965ac9c00a9d, findElement {using=xpath, value=//button[@type='submit123']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56625}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56625/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9fbd39b2d39e59a7d9bc965ac9c00a9d
+2024-05-02 21:18:55,915 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseTitleValidation_TC003 is failed: 
+2024-05-02 21:22:05,357 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:22:05,440 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:22:06,642 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 21:22:06,652 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-02 21:22:18,267 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:22:18,352 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:22:18,420 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 21:22:18,427 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-02 21:22:30,013 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-02 21:22:30,089 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-02 21:22:30,135 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-02 21:22:31,268 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-02 21:22:31,288 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseTitleValidation_TC003 is failed: 
+2024-05-03 19:47:02,694 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:47:02,755 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:47:04,327 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 19:47:04,333 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 19:47:14,095 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:47:14,166 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:47:14,212 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 19:47:14,213 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-03 19:47:25,294 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:47:25,357 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:47:26,447 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 19:47:26,458 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 19:47:26,480 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseTitleValidation_TC003 is failed: 
+2024-05-03 19:52:00,141 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:52:00,218 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:52:01,546 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 19:52:01,555 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 19:52:12,122 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:52:12,207 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:52:13,384 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 19:52:13,388 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-03 19:52:25,445 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:52:25,512 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:52:25,568 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 19:52:26,680 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 19:52:26,712 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseTitleValidation_TC003 is failed: 
+2024-05-03 19:54:18,485 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:54:18,549 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:54:18,571 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df92f74e6ae220b4b221d9eec70e654f, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63729}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63729/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: df92f74e6ae220b4b221d9eec70e654f
+2024-05-03 19:54:18,579 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is failed: 
+2024-05-03 19:54:29,944 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:54:30,010 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:54:30,024 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1756371d6d7ccc2a3c200292b4fa385f, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63770}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63770/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1756371d6d7ccc2a3c200292b4fa385f
+2024-05-03 19:54:30,027 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is failed: 
+2024-05-03 19:54:41,842 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 19:54:41,919 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 19:54:41,936 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b42c52b75a363eae4daad1189b28425b, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63794}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63794/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b42c52b75a363eae4daad1189b28425b
+2024-05-03 19:54:41,938 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseTitleValidation_TC003 is failed: 
+2024-05-03 20:04:53,026 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:04:53,120 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:04:53,156 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f59ba812ab39f3b4dac70e505fb3cc4d, findElement {using=xpath, value=//button[@type='submit123']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63894}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63894/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f59ba812ab39f3b4dac70e505fb3cc4d
+2024-05-03 20:04:53,171 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is failed: 
+2024-05-03 20:05:04,754 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:05:04,819 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:05:04,833 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [36819d398909c773b39f38b1bd10c31a, findElement {using=xpath, value=//button[@type='submit123']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63915}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63915/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 36819d398909c773b39f38b1bd10c31a
+2024-05-03 20:05:04,838 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is failed: 
+2024-05-03 20:05:17,249 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:05:17,321 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:05:17,335 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d380a6b932e94e81a0ccb54ca49ad8ce, findElement {using=xpath, value=//button[@type='submit123']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63936}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63936/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d380a6b932e94e81a0ccb54ca49ad8ce
+2024-05-03 20:05:17,338 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseTitleValidation_TC003 is failed: 
+2024-05-03 20:10:05,768 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:10:05,850 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:10:05,878 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [be76d58e74f3a2205f79756f28a79195, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63980}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63980/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be76d58e74f3a2205f79756f28a79195
+2024-05-03 20:10:05,889 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is failed: 
+2024-05-03 20:10:23,163 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:10:23,235 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:10:23,249 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3746126e7ce564e8efd8276f4e497ef5, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64003}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64003/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3746126e7ce564e8efd8276f4e497ef5
+2024-05-03 20:10:23,252 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is failed: 
+2024-05-03 20:10:35,612 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:10:35,692 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:10:35,708 [main] [ERROR] rootLogger:25:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit123']"}
+  (Session info: chrome=123.0.6312.124)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [28a6913f81905f3b5823adddaf0fef48, findElement {value=//button[@type='submit123'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64027}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64027/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28a6913f81905f3b5823adddaf0fef48
+2024-05-03 20:10:35,711 [main] [INFO ] rootLogger:65:BaseCls.java - Test CaseTitleValidation_TC003 is failed: 
+2024-05-03 20:11:43,365 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:11:43,439 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:11:44,513 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:11:44,516 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 20:11:55,414 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:11:55,487 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:11:55,537 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:11:55,541 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-03 20:12:07,517 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:12:07,587 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:12:07,631 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:12:08,756 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 20:12:08,761 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 20:12:08,765 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-03 20:27:55,581 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:27:55,652 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:27:56,743 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:27:56,747 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 20:28:06,900 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:28:06,963 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:28:08,394 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:28:08,396 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-03 20:28:20,122 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:28:20,180 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:28:21,236 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:28:21,243 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 20:28:21,247 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 20:28:21,250 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-03 20:29:33,556 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:29:33,621 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:29:33,663 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:29:33,668 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 20:29:43,923 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:29:43,993 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:29:45,079 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:29:45,081 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-03 20:29:56,078 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:29:56,144 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:29:57,339 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:29:57,346 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 20:29:57,349 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 20:29:57,353 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-03 20:33:32,064 [main] [INFO ] rootLogger:66:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is failed: 
+2024-05-03 20:37:01,963 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:37:02,037 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:37:03,515 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:37:03,522 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 20:37:14,735 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:37:14,789 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:37:15,928 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:37:15,929 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-03 20:37:27,357 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:37:27,430 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:37:27,483 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:37:27,486 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-03 20:37:38,619 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:37:38,684 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:37:39,825 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:37:39,828 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC005 is passed: 
+2024-05-03 20:37:51,378 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:37:51,438 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:37:52,567 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:37:52,584 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 20:37:52,589 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 20:37:52,593 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-03 20:38:03,862 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:38:03,924 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:38:05,017 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:38:05,029 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 20:38:05,030 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 20:38:05,032 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-03 20:44:03,519 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:44:03,580 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:44:04,899 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:44:04,905 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 20:44:15,832 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:44:15,899 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:44:15,944 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:44:15,947 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-03 20:44:26,371 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:44:26,440 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:44:27,517 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:44:27,522 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-03 20:44:38,399 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:44:38,460 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:44:39,563 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:44:39,567 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC005 is passed: 
+2024-05-03 20:44:51,294 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:44:51,357 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:44:51,403 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:44:52,449 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 20:44:52,454 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 20:44:52,458 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-03 20:45:04,088 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 20:45:04,154 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 20:45:05,391 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 20:45:05,397 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 20:45:05,398 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 20:45:05,399 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-03 21:00:39,345 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:00:39,409 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:00:40,915 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:00:40,927 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 21:00:54,478 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:00:54,552 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:00:55,753 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:00:55,755 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-03 21:01:06,112 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:01:06,183 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:01:06,227 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:01:06,228 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-03 21:01:16,805 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:01:16,881 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:01:16,930 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:01:16,932 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC005 is passed: 
+2024-05-03 21:01:29,034 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:01:29,100 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:01:30,207 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:01:30,214 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 21:01:30,219 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 21:01:30,221 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-03 21:01:40,572 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:01:40,638 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:01:41,794 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:01:41,813 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 21:01:41,813 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 21:01:41,817 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-03 21:02:44,627 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:02:44,706 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:02:45,818 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:02:45,822 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-03 21:02:56,718 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:02:56,811 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:02:56,858 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:02:56,858 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-03 21:03:07,934 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:03:08,059 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:03:08,121 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:03:08,127 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-03 21:03:18,533 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:03:18,609 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:03:18,656 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:03:18,656 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC005 is passed: 
+2024-05-03 21:03:30,574 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:03:30,679 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:03:30,734 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:03:32,074 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 21:03:32,074 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 21:03:32,074 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-03 21:03:44,168 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-03 21:03:44,235 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-03 21:03:45,372 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-03 21:03:45,379 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-03 21:03:45,380 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-03 21:03:45,381 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-06 19:43:59,318 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-06 19:43:59,422 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-06 19:43:59,492 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 19:43:59,492 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-06 19:44:14,309 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-06 19:44:14,408 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-06 19:44:14,460 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 19:44:14,461 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-06 19:44:24,880 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-06 19:44:24,993 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-06 19:44:26,162 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 19:44:26,164 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-06 19:44:36,420 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-06 19:44:36,555 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-06 19:44:37,770 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 19:44:37,773 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseLoginWithInvalidUsername_TC005 is passed: 
+2024-05-06 19:44:49,227 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-06 19:44:49,321 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-06 19:44:49,377 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 19:44:50,593 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-06 19:44:50,596 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-06 19:44:50,600 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-06 19:45:01,366 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: Admin
+2024-05-06 19:45:01,447 [main] [INFO ] rootLogger:35:CommandsCls.java - Entered the value: admin123
+2024-05-06 19:45:02,695 [main] [INFO ] rootLogger:22:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 19:45:02,710 [main] [INFO ] rootLogger:49:CommandsCls.java - Get the title :OrangeHRM
+2024-05-06 19:45:02,711 [main] [INFO ] rootLogger:62:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-06 19:45:02,712 [main] [INFO ] rootLogger:61:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-06 20:12:29,681 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:12:29,781 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:12:29,836 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:12:29,841 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-06 20:12:35,447 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:12:35,542 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:12:35,606 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:12:35,609 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-06 20:12:40,461 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:12:40,532 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:12:41,689 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:12:41,690 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-06 20:12:47,309 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:12:47,381 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:12:48,600 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:12:48,601 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithInvalidUsername_TC005 is passed: 
+2024-05-06 20:12:54,771 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:12:54,896 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:12:56,143 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:12:56,153 [main] [INFO ] rootLogger:56:CommandsCls.java - Get the title :OrangeHRM
+2024-05-06 20:12:56,155 [main] [INFO ] rootLogger:69:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-06 20:12:56,156 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-06 20:13:01,523 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:13:01,619 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:13:01,686 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:13:03,049 [main] [INFO ] rootLogger:56:CommandsCls.java - Get the title :OrangeHRM
+2024-05-06 20:13:03,049 [main] [INFO ] rootLogger:69:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-06 20:13:03,052 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-06 20:30:38,222 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:30:38,330 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:30:38,411 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:30:38,416 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-06 20:30:43,592 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:30:43,665 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:30:44,784 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:30:44,786 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-06 20:30:50,682 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:30:50,788 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:30:50,858 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:30:50,859 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-06 20:30:56,593 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:30:56,696 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:30:56,769 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:30:56,770 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithInvalidUsername_TC005 is passed: 
+2024-05-06 20:31:04,746 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:31:04,808 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:31:06,110 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:31:06,124 [main] [INFO ] rootLogger:56:CommandsCls.java - Get the title :OrangeHRM
+2024-05-06 20:31:06,128 [main] [INFO ] rootLogger:69:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-06 20:31:06,130 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-06 20:31:15,464 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:31:15,522 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:31:15,570 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:31:16,799 [main] [INFO ] rootLogger:56:CommandsCls.java - Get the title :OrangeHRM
+2024-05-06 20:31:16,799 [main] [INFO ] rootLogger:69:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-06 20:31:16,800 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
+2024-05-06 20:31:54,897 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:31:55,034 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:31:56,259 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:31:56,264 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithValidCredentials_TC001 is passed: 
+2024-05-06 20:32:03,030 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:32:03,107 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:32:03,171 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:32:03,173 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithValidCredentials_TC004 is passed: 
+2024-05-06 20:32:10,667 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:32:10,760 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:32:10,803 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:32:10,805 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithInvalidUsername_TC002 is passed: 
+2024-05-06 20:32:17,919 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:32:18,055 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:32:18,118 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:32:18,119 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseLoginWithInvalidUsername_TC005 is passed: 
+2024-05-06 20:32:25,910 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:32:25,976 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:32:26,025 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:32:27,258 [main] [INFO ] rootLogger:56:CommandsCls.java - Get the title :OrangeHRM
+2024-05-06 20:32:27,261 [main] [INFO ] rootLogger:69:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-06 20:32:27,263 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseTitleValidation_TC003 is passed: 
+2024-05-06 20:32:34,624 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: Admin
+2024-05-06 20:32:34,713 [main] [INFO ] rootLogger:42:CommandsCls.java - Entered the value: admin123
+2024-05-06 20:32:34,793 [main] [INFO ] rootLogger:29:CommandsCls.java - Clicked onBy.xpath: //button[@type='submit']
+2024-05-06 20:32:35,979 [main] [INFO ] rootLogger:56:CommandsCls.java - Get the title :OrangeHRM
+2024-05-06 20:32:35,979 [main] [INFO ] rootLogger:69:CommandsCls.java - Compared two strings: Actual is: OrangeHRM Expected is :OrangeHRM
+2024-05-06 20:32:35,980 [main] [INFO ] rootLogger:63:BaseCls.java - Test CaseTitleValidation_TC006 is passed: 
