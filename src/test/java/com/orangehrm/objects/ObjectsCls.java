@@ -8,6 +8,8 @@ public class ObjectsCls {
 	public static By username= By.xpath("//input[@name='username']");
 	public static By password=By.xpath("//input[@name='password']");
 	public static By loginbutton=By.xpath("//button[@type='submit']");
+
+	//These are all unique xpaths
 	
 	
 	
